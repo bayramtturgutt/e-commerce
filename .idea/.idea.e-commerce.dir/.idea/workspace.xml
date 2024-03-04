@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba47e6ce-b448-4842-81bb-1bd8cf91a226" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.e-commerce.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.e-commerce.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -80,7 +82,18 @@
       <workItem from="1709032125131" duration="2006000" />
       <workItem from="1709034856022" duration="1415000" />
       <workItem from="1709107965907" duration="2294000" />
+      <workItem from="1709231835163" duration="2220000" />
+      <workItem from="1709555307140" duration="459000" />
     </task>
+    <task id="LOCAL-00001" summary="logo changed">
+      <option name="closed" value="true" />
+      <created>1709232652866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709232652866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="logo changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="logo changed" />
   </component>
 </project>
